@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nkosinathi 👋🏾
 
-<!--
-**charliephresh/charliephresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏾‍♂️ About Me
+I’m a self-taught data enthusiast learning SQL, data engineering, and analytics through hands-on projects.  
+I focus on building strong fundamentals and understanding how data systems work end-to-end.
 
-Here are some ideas to get you started:
+## 📚 What I’m Currently Learning
+- 🧠 SQL Server (T-SQL)
+- 🏗️ Data modeling (star schemas)
+- 🔄 ETL concepts (Bronze / Silver / Gold layers)
+- 🗄️ Data warehousing fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 📦 SQL Data Warehouse (ETL + Star Schema)
+- ⏱️ Daily SQL practice — *30 minutes of SQL every day*
+
+## 🎯 Goals
+- 🚀 Grow into a Data Analyst / Data Engineer role
+- 🧩 Build production-ready data models
+- 📈 Learn by solving real problems, one step at a time
+
+## 🤝🏾 Let's Connect
+- 💼 LinkedIn: www.linkedin.com/in/nkosinathi-mlotshwa-624163348

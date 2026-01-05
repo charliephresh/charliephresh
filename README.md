@@ -12,7 +12,7 @@ I focus on building strong fundamentals and understanding how data systems work 
 
 ## 🛠️ Projects
 - 📦 SQL Data Warehouse (ETL + Star Schema)
-- ⏱️ Daily SQL practice — *30 minutes of SQL every day*
+- ⏱️ Daily SQL practice: *30 minutes of SQL every day*
 
 ## 🎯 Goals
 - 🚀 Grow into a Data Analyst / Data Engineer role
